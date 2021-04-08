@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {background-color: rgb(211, 219, 93);}
 h1 {color: blue; }
 h2 {color: rgb(0, 0, 0)}
@@ -17,4 +18,17 @@ align-items: center
 
 
 
+=======
+body {background-color: rgb(211, 219, 93);}
+h1 {color: blue; }
+h2 {color: rgb(0, 0, 0)}
+th {background-color: rgb(255, 94, 0);}
+td {background-color: rgb(252, 251, 255);}
+td {color: blue ;}
+h3 {color: blue;}
+body {background-image: url('222.jpg');
+    height: 150px;
+    background-size:cover;
+    background-position: center;
+>>>>>>> 84f3fdb2d4c408bcc57dd2fcfb729499f698563e
 }
